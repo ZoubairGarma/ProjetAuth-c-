@@ -22,3 +22,6 @@ Main Program
 
 Provides a simple menu-based interface (Register, Login, Exit).
 Prompts the user for credentials and interacts with AuthService.
+
+PS:this code  has been tested , it is fully functional . If there are any issues, check if openSSL is installed and recompile the project 
+PS:OpenSSL must be installed. 
